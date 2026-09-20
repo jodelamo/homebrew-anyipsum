@@ -1,6 +1,6 @@
 cask "anyipsum" do
-  version "0.13.0"
-  sha256 "0d280431c9242a016a748af9b8d58b8cf0fe87781e63f7b44593f30d8160973c"
+  version "0.14.0"
+  sha256 "5d34b5827d80f0c6ed0e61c3752031b94547b2614df5c04ddfbc3bdae96e46b5"
 
   url "https://github.com/jodelamo/AnyIpsum/releases/download/v#{version}/AnyIpsum-#{version}.dmg"
   name "AnyIpsum"
